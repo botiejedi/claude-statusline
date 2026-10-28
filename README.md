@@ -16,7 +16,7 @@ A custom statusline for [Claude Code](https://claude.ai/claude-code) on Windows 
 ## Quick Install
 
 ```powershell
-irm https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/claude-statusline-install.ps1 | iex
+irm https://raw.githubusercontent.com/botiejedi/claude-statusline/master/claude-statusline-install.ps1 | iex
 ```
 
 Then restart Claude Code.

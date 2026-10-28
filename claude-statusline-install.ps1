@@ -1,6 +1,6 @@
 #Requires -Version 5.1
 # Claude Code Statusline Installer for Windows
-# One-liner: irm https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/claude-statusline-install.ps1 | iex
+# One-liner: irm https://raw.githubusercontent.com/botiejedi/claude-statusline/master/claude-statusline-install.ps1 | iex
 
 $ErrorActionPreference = "Stop"
 $binDir = "$env:USERPROFILE\.local\bin"
